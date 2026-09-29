@@ -1,0 +1,19 @@
+# ===== Python =====
+venv
+.idea
+*.pyc
+__pycache__
+
+# ===== Visual Studio Code =====
+.vscode/*
+.vscode/**
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+# ===== Rust =====
+/target
+**/target
+Cargo.lock
