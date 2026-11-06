@@ -1,6 +1,6 @@
 # Day 04 · 函数：把一段逻辑装进一个名字
 
-> 对应示例：[examples/functions](../examples/functions/)
+> 对应示例：[examples/functions](../by-example/functions/)
 > 预计用时：50 分钟
 
 ## 今天学什么
@@ -9,7 +9,7 @@
 
 ## 一、定义一个函数
 
-打开 [examples/functions/main.mbt](../examples/functions/main.mbt)：
+打开 [examples/functions/main.mbt](../by-example/functions/main.mbt)：
 
 ```moonbit
 fn main {

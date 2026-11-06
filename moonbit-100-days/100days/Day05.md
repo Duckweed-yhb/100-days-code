@@ -1,6 +1,6 @@
 # Day 05 · 控制流：让程序学会做选择
 
-> 对应示例：[examples/control](../examples/control/)
+> 对应示例：[examples/control](../by-example/control/)
 > 预计用时：55 分钟
 
 ## 今天学什么
@@ -9,7 +9,7 @@
 
 ## 一、if：既是判断，也是表达式
 
-打开 [examples/control/main.mbt](../examples/control/main.mbt)：
+打开 [examples/control/main.mbt](../by-example/control/main.mbt)：
 
 ```moonbit
 fn main {

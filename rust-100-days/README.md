@@ -18,7 +18,7 @@ Rust 是一门**系统级编程语言**，三大招牌：
 
 ## 给初学者的建议
 
-- **核心语法快速过，劝退点学透，内置库 / 生态库干中学**（详见 [Notes/README](../Notes/README.md) 的学习路线导航）
+- **核心语法快速过，劝退点学透，内置库 / 生态库干中学**（详见 [Rust 笔记导航](../../../../../02-职业与发展/技术栈/02-编程语言/Rust/markdown/README.md) 的学习路线导航）
 - **动手敲，别只看**：每段代码都自己敲一遍并运行
 - 报错不可怕，编译器的提示其实很友好——把报错发我，我帮你逐句翻译
 - 善用官方文档：[中文官方书](https://rustwiki.org/zh-CN/book/)、[Rust By Example](https://doc.rust-lang.org/rust-by-example/)、[Rust 语言圣经](https://course.rs/)
@@ -289,8 +289,17 @@ Rust 是一门**系统级编程语言**，三大招牌：
 
 ---
 
-## 配套资源
+## 目录与配套资源
 
-- 详细精简笔记：[`../Notes`](../Notes/README.md)
-- Rustlings 练习仓库：`../2026a-rustling-Duckweed-yhb`
+| 路径 | 用途 |
+|---|---|
+| `01-Rust语言基础/` ~ `06-生态方向与综合/` | 六个阶段目录，每天一篇 markdown（Day01~Day100） |
+| [训练营对齐学习计划](./训练营对齐学习计划.md) | 对接「开源操作系统训练营」的节点安排（10-19 / 11-09 / 11-29） |
+| [更新日志.md](./更新日志.md) | 本路线的修订记录 |
+| `res/` | 配图与随附资源 |
+
+其他配套：
+
+- 详细精简笔记：[`Rust/markdown/`](../../../../../02-职业与发展/技术栈/02-编程语言/Rust/markdown/README.md)（2026-10-15 由 `Notes/` 改名，原先这里的 `../Notes/` 链接是断的）
+- Rustlings 练习仓库：`05-学习资源/Learn/CS/LearningOS/OSCamp-2026/2026a-rustling-Duckweed-yhb/`
 - [中文官方书](https://rustwiki.org/zh-CN/book/) ｜ [Rust By Example](https://doc.rust-lang.org/rust-by-example/) ｜ [Rust 语言圣经](https://course.rs/) ｜ [官方英文书](https://doc.rust-lang.org/book/)

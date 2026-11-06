@@ -32,7 +32,9 @@
 │   ├─ README.md / 训练营对齐学习计划.md / 更新日志.md
 │   ├─ 01-Rust语言基础 … 06-生态方向与综合
 ├─ moonbit-100-days/    # 原创 MoonBit 按天教程（进行中）
-│   └─ 100days/         # Day01~05 + README
+│   ├─ 100days/         # Day01~05 + README
+│   └─ by-example/      # 同一批示例的主题式入口（hello/variables/types/functions/control）
+│                       # 2026-10-15 由 02-职业与发展/技术栈/02-编程语言/Moonbit/ 并入
 ├─ java-100-days/       # 改编自 B 站 Java 路线文案
 │   ├─ README.md
 │   ├─ 01-JavaSE基础 … 08-项目实战（Day01~100）

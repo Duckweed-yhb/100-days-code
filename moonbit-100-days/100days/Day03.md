@@ -1,6 +1,6 @@
 # Day 03 · 基本类型：五种数据，各就各位
 
-> 对应示例：[examples/types](../examples/types/)
+> 对应示例：[examples/types](../by-example/types/)
 > 预计用时：50 分钟
 
 ## 今天学什么
@@ -9,7 +9,7 @@
 
 ## 一、五种基本类型
 
-打开 [examples/types/main.mbt](../examples/types/main.mbt)：
+打开 [examples/types/main.mbt](../by-example/types/main.mbt)：
 
 ```moonbit
 fn main {

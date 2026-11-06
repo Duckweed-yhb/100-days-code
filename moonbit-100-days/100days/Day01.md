@@ -1,6 +1,6 @@
 # Day 01 · 初识 MoonBit：你的第一个程序
 
-> 对应示例：[examples/hello](../examples/hello/)
+> 对应示例：[examples/hello](../by-example/hello/)
 > 预计用时：40 分钟
 
 ## 今天学什么
@@ -11,7 +11,7 @@ MoonBit 是一门新的编程语言，官方定位是"面向云计算与 WebAsse
 
 ## 一、程序入口：一切从 `fn main` 开始
 
-打开 [examples/hello/main.mbt](../examples/hello/main.mbt)，完整的程序只有 8 行：
+打开 [examples/hello/main.mbt](../by-example/hello/main.mbt)，完整的程序只有 8 行：
 
 ```moonbit
 /// 01 · Hello, MoonBit!

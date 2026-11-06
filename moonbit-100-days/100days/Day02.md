@@ -1,6 +1,6 @@
 # Day 02 · 变量与绑定：为什么默认只读是好事
 
-> 对应示例：[examples/variables](../examples/variables/)
+> 对应示例：[examples/variables](../by-example/variables/)
 > 预计用时：45 分钟
 
 ## 今天学什么
@@ -9,7 +9,7 @@
 
 ## 一、`let`：绑定，而不是赋值
 
-打开 [examples/variables/main.mbt](../examples/variables/main.mbt)：
+打开 [examples/variables/main.mbt](../by-example/variables/main.mbt)：
 
 ```moonbit
 fn main {
